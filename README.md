@@ -1,163 +1,243 @@
 <div align="center">
 
-# ⚡ Mohamed El Hasnaoui
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mohamed%20El%20Hasnaoui&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Cybersecurity%20%7C%20Builder&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:2563eb" width="100%"/>
 
-### `AI Engineer` · `Data` · `Cybersecurity` · `Builder`
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%F0%9F%A4%96;Turning+ideas+into+products+%F0%9F%9A%80;AI+%7C+Data+%7C+Cybersecurity+%7C+Cloud;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Data+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+Builder+%F0%9F%92%BB;Teaching+%7C+Building+%7C+Learning;Turning+ideas+into+real+products+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://github.com/moha2ia">
-<img src="https://komarev.com/ghpvc/?username=moha2ia&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/moha2ia?style=flat-square&logo=github&label=Followers&color=111827"/>
 </a>
 
-<a href="https://github.com/moha2ia?tab=followers">
-<img src="https://img.shields.io/github/followers/moha2ia?label=FOLLOWERS&style=for-the-badge&color=111111" />
+<a href="https://github.com/moha2ia?tab=repositories">
+<img src="https://img.shields.io/github/stars/moha2ia?style=flat-square&logo=github&label=Stars&color=111827"/>
 </a>
+
+<a href="mailto:elhasnaouimohamedd@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+> **Building at the intersection of AI, data, cybersecurity and real-world products.**
 
 </div>
 
 ---
 
-## 🧠 `$ whoami`
+## 👨‍💻 About Me
 
-```yaml
-name: Mohamed El Hasnaoui
-role: AI & Data Engineer
-location: Morocco 🇲🇦
-focus:
-  - Artificial Intelligence
-  - Data Engineering
-  - Cybersecurity
-  - Cloud Computing
-  - Full-Stack Development
+```python
+class Mohamed:
 
-currently:
-  - Building AI-powered products
-  - Teaching AI & Data
-  - Exploring new technologies
-  - Turning ideas into real-world projects
+    name = "Mohamed El Hasnaoui"
+    role = "AI & Data Engineer"
+    location = "Morocco 🇲🇦"
 
-mindset: "Build. Break. Learn. Repeat."
+    interests = [
+        "Artificial Intelligence",
+        "Data Engineering",
+        "Cybersecurity",
+        "Cloud Computing",
+        "Full-Stack Development"
+    ]
+
+    currently = [
+        "Building AI-powered applications",
+        "Teaching AI & Data",
+        "Exploring cybersecurity",
+        "Shipping real-world products"
+    ]
+
+    philosophy = "Build → Break → Learn → Repeat"
 ```
 
-I'm an engineer who enjoys **building things that actually work**.
+I'm an engineer who enjoys turning **ideas into working products**.
 
-From AI models and data systems to web platforms and cybersecurity projects, I'm always experimenting with new technologies and turning ideas into something people can use.
+My interests sit at the intersection of **AI, data, cybersecurity and software engineering**, with a particular focus on building practical solutions rather than just experimenting with technology.
+
+I also enjoy **teaching, sharing knowledge and helping others get into tech**.
 
 ---
 
-## ⚡ Tech Stack
+# 🧠 What I Do
 
-### 🤖 AI / Data
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243"/>
-</p>
+### 🤖 Artificial Intelligence
 
-### 🌐 Development
+* Machine Learning
+* Deep Learning
+* NLP
+* AI APIs
+* Data-driven applications
+* AI-powered automation
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
+</td>
 
-### ☁️ Cloud / Tools
-
-<p>
-<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-</p>
+<td width="50%">
 
 ### 🔐 Cybersecurity
 
+* Security fundamentals
+* Networking
+* Secure applications
+* Digital security awareness
+* Cybersecurity projects
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data
+
+* Data Analysis
+* Data Management
+* Python
+* Pandas
+* NumPy
+* Data-driven systems
+
+</td>
+
+<td width="50%">
+
+### 🌐 Engineering
+
+* Full-Stack Development
+* REST APIs
+* Cloud
+* Firebase
+* AWS
+* Modern web applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
 <p>
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,php,r,ruby&perline=10"/>
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=10"/>
+</p>
+
+### Cloud / Backend / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github,linux,nginx,vercel&perline=10"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase&perline=10"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,latex&perline=10"/>
 </p>
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Featured Projects
 
-### 🧠 AI Projects
+<div align="center">
 
-> AI-powered projects focused on real-world problems, automation and intelligent systems.
+<table>
 
-**AI API Projects**
-Building intelligent applications around APIs, machine learning models and custom datasets.
+<tr>
+<td width="50%">
 
-**Darija AI Dataset**
-Exploring Moroccan Darija datasets and NLP applications.
+### 🧠 AI & Data Projects
 
----
+Exploring AI applications, intelligent APIs, datasets and data-driven systems.
 
-### 🌐 Web Platforms
+**Focus:**
+`Python` `ML` `NLP` `APIs` `Data`
 
-**EMC Youth MUN Platform**
+</td>
 
-A digital platform supporting event management, dashboards, authentication and participant workflows for a cybersecurity & AI focused MUN.
-
-`Firebase` · `JavaScript` · `HTML/CSS` · `Dashboard Systems`
-
----
+<td width="50%">
 
 ### 🏥 Draa Health+
 
-A healthcare platform concept designed around improving access to healthcare services in the **Drâa-Tafilalet** region.
+Healthcare platform concept designed to improve access to healthcare services.
 
-`AI` · `Web Development` · `Healthcare` · `UX`
+**Stack:**
+`AI` `Web` `Firebase` `UX`
 
----
+</td>
+</tr>
 
-### 🛒 E-Commerce / Product Platforms
+<tr>
+<td width="50%">
 
-Building modern e-commerce and marketplace experiences with a focus on **UI, animations and user experience**.
+### 🌐 EMC Youth Platform
 
-`React` · `JavaScript` · `Firebase` · `AI`
+Digital platform for event management, dashboards, authentication and participant workflows.
 
----
+**Stack:**
+`JavaScript` `Firebase` `HTML/CSS`
 
-# 📊 GitHub Stats
+</td>
 
-<div align="center">
+<td width="50%">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=moha2ia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 🛒 E-Commerce Platforms
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moha2ia&layout=compact&theme=tokyonight&hide_border=true" />
+Modern e-commerce and marketplace experiences focused on UI, UX and performance.
+
+**Stack:**
+`React` `JavaScript` `Firebase`
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=moha2ia&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=moha2ia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moha2ia&layout=compact&hide_border=true&theme=tokyonight"/>
 
----
+<br><br>
 
-# 🐍 Watch the Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moha2ia/moha2ia/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com/?user=moha2ia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -167,67 +247,86 @@ Building modern e-commerce and marketplace experiences with a focus on **UI, ani
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moha2ia&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moha2ia&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Mission
-
-```text
-[████████████████░░░░] 80%
-
-→ Build better AI systems
-→ Ship more real-world products
-→ Go deeper into cybersecurity
-→ Master cloud & data engineering
-→ Contribute to open source
-→ Keep learning
-```
-
----
-
-# 🧩 Currently Learning
-
-```text
-AI / ML             ████████████████░░░  85%
-Data Engineering    ██████████████░░░░░  75%
-Cybersecurity       █████████████░░░░░░  70%
-Cloud / AWS         ████████████░░░░░░░  65%
-System Design       ██████████░░░░░░░░░  55%
-```
-
----
-
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/moha2ia">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/moha2ia/moha2ia/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
 ---
 
+# ⚡ Current Focus
+
+```text
+AI / Machine Learning      █████████████████░░░   85%
+Data Engineering           ████████████████░░░░   80%
+Cybersecurity              ███████████████░░░░░   75%
+Cloud / AWS                 ██████████████░░░░░░   70%
+Full-Stack Engineering     ████████████████░░░░   80%
+System Design               ████████████░░░░░░░░   60%
+```
+
+---
+
+# 🎯 2026
+
+```diff
++ Build more AI-powered products
++ Go deeper into cybersecurity
++ Improve cloud & data engineering
++ Ship production-ready applications
++ Contribute to open source
++ Teach and share more knowledge
+```
+
+---
+
+# 🌍 Let's Connect
+
 <div align="center">
 
-### `sudo apt install ambition`
+<a href="https://linkedin.com/in/mohamed-elhasnaoui-584823394/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**No shortcuts. Just shipping. 🚀**
+<a href="https://instagram.com/br4wnyy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@br4wnyy">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://x.com/br4wnyy">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:elhasnaouimohamedd@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+<div align="center">
+
+### `while(alive) { learn(); build(); repeat(); }`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=moha2ia&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,50:111827,100:0f172a"/>
 
 </div>
